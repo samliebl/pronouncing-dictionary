@@ -1,0 +1,15 @@
+{
+  "name": "pronouncing-dictionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Liebl",
+  "license": "MIT",
+  "devDependencies": {
+    "cmu-pronouncing-dictionary": "^3.0.0"
+  }
+}
